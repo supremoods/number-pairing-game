@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Number Pairing Game</string>
+    <string name="player_name">Player Name</string>
+    <string name="score">Score:</string>
+    <string name="question_mark" id="ques">\?</string>
+    <string name="timer">100</string>
+    <string name="todo">TODO</string>
+    <string name="restart">restart</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="labellogo">labelLogo</string>
+    <string name="logo">logo</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="input_your_name">Input Your Name</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start</string>
+</resources>
